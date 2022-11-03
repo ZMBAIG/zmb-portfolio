@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/zmb-portfolio/static/css/main.f8b27cda.css",
+    "main.js": "/zmb-portfolio/static/js/main.66a12470.js",
+    "static/media/cube-logo.png": "/zmb-portfolio/static/media/cube-logo.878f049afded91a8696f.png",
+    "static/media/Superpy.jpg": "/zmb-portfolio/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
+    "static/media/FilmSearch.jpg": "/zmb-portfolio/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
+    "static/media/StudentDashboard.jpg": "/zmb-portfolio/static/media/StudentDashboard.2bb9b284be76d6ec84a7.jpg",
+    "static/media/Betsyshop.jpg": "/zmb-portfolio/static/media/Betsyshop.979a0769e2956a2ffc73.jpg",
+    "static/media/ToDoList.jpg": "/zmb-portfolio/static/media/ToDoList.c420de876aa91910f27e.jpg",
+    "static/media/Zafar-Resume-FSD-2022-23.pdf": "/zmb-portfolio/static/media/Zafar-Resume-FSD-2022-23.eca631b429ef6ff8b686.pdf",
+    "static/media/flask.png": "/zmb-portfolio/static/media/flask.d6d30c98641995f1b39c.png",
+    "static/media/react.png": "/zmb-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/zmb-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/sass.png": "/zmb-portfolio/static/media/sass.bb8078e20250a65b8e8a.png",
+    "static/media/github.png": "/zmb-portfolio/static/media/github.ee796ad088de6b7191eb.png",
+    "static/media/html.png": "/zmb-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/zmb-portfolio/static/media/css.cc14ca457c818097f545.png",
+    "static/media/python.png": "/zmb-portfolio/static/media/python.532b43188ecbf86cdcbd.png",
+    "static/media/javascript.png": "/zmb-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/zmb-portfolio/index.html",
+    "main.f8b27cda.css.map": "/zmb-portfolio/static/css/main.f8b27cda.css.map",
+    "main.66a12470.js.map": "/zmb-portfolio/static/js/main.66a12470.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8b27cda.css",
+    "static/js/main.66a12470.js"
+  ]
+}
