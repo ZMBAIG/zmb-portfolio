@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/zmb-portfolio/static/css/main.f8b27cda.css",
-    "main.js": "/zmb-portfolio/static/js/main.66a12470.js",
+    "main.css": "/zmb-portfolio/static/css/main.729c15d3.css",
+    "main.js": "/zmb-portfolio/static/js/main.da3cacf3.js",
     "static/media/cube-logo.png": "/zmb-portfolio/static/media/cube-logo.878f049afded91a8696f.png",
     "static/media/Superpy.jpg": "/zmb-portfolio/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
     "static/media/FilmSearch.jpg": "/zmb-portfolio/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
     "static/media/StudentDashboard.jpg": "/zmb-portfolio/static/media/StudentDashboard.2bb9b284be76d6ec84a7.jpg",
     "static/media/Betsyshop.jpg": "/zmb-portfolio/static/media/Betsyshop.979a0769e2956a2ffc73.jpg",
     "static/media/ToDoList.jpg": "/zmb-portfolio/static/media/ToDoList.c420de876aa91910f27e.jpg",
-    "static/media/Zafar-Resume-FSD-2022-23.pdf": "/zmb-portfolio/static/media/Zafar-Resume-FSD-2022-23.eca631b429ef6ff8b686.pdf",
+    "static/media/arcgis.png": "/zmb-portfolio/static/media/arcgis.8c60cb1746ca5009bc36.png",
+    "static/media/Zafar-Resume-FSD-2022-23.pdf": "/zmb-portfolio/static/media/Zafar-Resume-FSD-2022-23.ed9d052045b0905c8240.pdf",
     "static/media/flask.png": "/zmb-portfolio/static/media/flask.d6d30c98641995f1b39c.png",
     "static/media/react.png": "/zmb-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/zmb-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -19,11 +20,11 @@
     "static/media/python.png": "/zmb-portfolio/static/media/python.532b43188ecbf86cdcbd.png",
     "static/media/javascript.png": "/zmb-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/zmb-portfolio/index.html",
-    "main.f8b27cda.css.map": "/zmb-portfolio/static/css/main.f8b27cda.css.map",
-    "main.66a12470.js.map": "/zmb-portfolio/static/js/main.66a12470.js.map"
+    "main.729c15d3.css.map": "/zmb-portfolio/static/css/main.729c15d3.css.map",
+    "main.da3cacf3.js.map": "/zmb-portfolio/static/js/main.da3cacf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8b27cda.css",
-    "static/js/main.66a12470.js"
+    "static/css/main.729c15d3.css",
+    "static/js/main.da3cacf3.js"
   ]
 }
