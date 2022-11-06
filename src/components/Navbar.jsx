@@ -12,9 +12,6 @@ const Navbar = () => {
       <div>
         <img src={Logo} alt="Logo" style={{ width: "60px" }} />
       </div>
-      {/* <p class="text-xs">
-        <i>“First, solve the problem. Then, write the code.” – John Johnson</i>{" "}
-      </p> */}
 
       {/* menu */}
       <ul className="hidden md:flex ">
