@@ -3,7 +3,7 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className="w-full h-fit bg-[#0a192f] flex justify-center items-center p-4 "
+      className="w-full h-fit bg-[#0a192f] flex justify-center items-center pl-[100px] "
     >
       <form
         name="contact"

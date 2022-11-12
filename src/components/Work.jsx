@@ -6,8 +6,11 @@ const Work = () => {
   const project = data;
 
   return (
-    <div name="work" className="w-full h-fit text-gray-300 bg-[#0a192f]">
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+    <div
+      name="work"
+      className="ml-25 sm:w-full h-fit text-gray-300 bg-[#0a192f] pl-[100px]"
+    >
+      <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">
           <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] text-gray-300">
             PROJECTS

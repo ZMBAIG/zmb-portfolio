@@ -10,16 +10,19 @@ import {
 
 const Home = () => {
   return (
-    <div name="home" className="w-full h-screen bg-[#282c34]">
+    <div
+      name="home"
+      className="sm:w-full h-screen bg-[#282c34] pl-[110px] pb-10"
+    >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full pt-8">
-        <div class="text-white text-2xl mt-[5rem] animate-bounce w-10 h-10">
-          Hi,
+        <div class="text-white text-2xl mt-[5rem] animate-ping relative inline-flex w-10 h-10 ml-25">
+          Hello,
         </div>
         <h1 className="text-4xl font-bold text-[#9edef0] ml-4">
           I'm Zafar Baig
         </h1>
-        <h2 className="mt-2	text-1xl text-teal-200 shadow-lg shadow-[#54749b] p-2 mb-4 border-t-[1px]">
+        <h2 className="mt-2	text-1xl text-teal-200 shadow-lg shadow-[#54749b] p-2 mb-4 border-b-[1px]">
           Full Stack Developer
         </h2>
         <p className="transform-text text-white text-md mt-8">
@@ -29,11 +32,11 @@ const Home = () => {
           am ready to accept a challenge.<br></br>I have a diverse set of
           skills, including creativity and design, to{" "}
           <span class="font-serif text-blue-300">
-            HTML, CSS, JavaScript, React & Python.
+            HTML, CSS, Tailwind, JavaScript, React & Python.
           </span>
           That made me a developer.
         </p>
-        <fieldset class="border pb-4 mt-4 justify-center px-8">
+        <fieldset class="border justify-center px-2 pb-4 mt-2 border-r shadow-lg shadow-[#54749b]">
           <legend class="text-white text-sm ml-6 ">Share on</legend>
 
           <div className="flex justify-evenly mx-0 p-2">

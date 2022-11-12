@@ -4,12 +4,12 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-r from-sky-300 to-indigo-900 text-gray-300 p-4"
+      className="sm:w-full h-screen bg-gradient-to-r from-sky-300 to-indigo-900 text-gray-300 pl-[130px] "
     >
-      <div className="flex flex-col justify-center items-center w-full h-full">
-        <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
-          <div className="sm:text-right pb-8 pl-4">
-            <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] p-2">
+      <div className=" flex flex-col justify-center items-center w-full h-full ">
+        <div className="ml-30 max-w-[800px] w-full grid grid-cols-2 gap-8">
+          <div className="mt-8 sm:text-right pl-4">
+            <p className="text-1xl font-bold inline shadow-lg shadow-[#54749b] p-2">
               About Me
             </p>
           </div>
@@ -18,7 +18,7 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-2xl font-bold">
             <p>Hi. I'm Zafar Baig,</p>
-            <p>the Full Stack Developer</p>
+            <p class="text-sm">the Full Stack Developer</p>
           </div>
           <div>
             <p class="about">
