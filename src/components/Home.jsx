@@ -15,8 +15,8 @@ const Home = () => {
       className="sm:w-full h-screen bg-[#282c34] pl-[110px] pb-10"
     >
       {/* Container */}
-      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full pt-8">
-        <div class="text-white text-2xl mt-[5rem] animate-ping relative inline-flex w-10 h-10 ml-25">
+      <div className="max-w-[800px] mx-auto px-8 flex flex-col justify-center h-full pt-8">
+        <div class="text-white text-2xl mt-[5rem] animate-ping scale-x-75 relative inline-flex w-10 h-10 ml-25">
           Hello,
         </div>
         <h1 className="text-4xl font-bold text-[#9edef0] ml-4">
@@ -36,6 +36,7 @@ const Home = () => {
           </span>
           That made me a developer.
         </p>
+
         <fieldset class="border justify-center px-2 pb-4 mt-2 border-r shadow-lg shadow-[#54749b]">
           <legend class="text-white text-sm ml-6 ">Share on</legend>
 

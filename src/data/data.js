@@ -16,7 +16,7 @@ export const data = [
   },
   {
     id: 2,
-    name: "Python(CLI) SuperPy Supermarket App",
+    name: "Python (CLI) Supermarket App",
     image: RealEst,
     github: "https://github.com/ZMBAIG/Zafar_Baig_Superpy_26062022",
     live: "",

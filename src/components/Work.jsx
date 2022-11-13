@@ -32,14 +32,14 @@ const Work = () => {
             >
               {/* Hover effect for images */}
               <div className="opacity-0 group-hover:opacity-100 ">
-                <span className="text-2xl font bold text-white tracking-wider ">
+                <span className="text-1xl font bold text-white tracking-wider">
                   {item.name}
                 </span>
-                <div className="pt-8 text-center ">
+                <div className="pt-2 text-center ">
                   {/* eslint-disable-next-line */}
                   <a href={item.github} target="_blank">
                     <button
-                      className="text-center rounded-lg px-4 py-3 m-2
+                      className="text-center rounded-full px-4 py-2 m-2
                       hover:bg-emerald-500 text-white font-bold text-lg"
                     >
                       <FaGithub size={30} />
@@ -47,7 +47,7 @@ const Work = () => {
                   </a>
                   <a href={item.live} target="_blank">
                     <button
-                      className="text-center rounded-lg px-4 py-3 m-2
+                      className="text-center rounded-full px-4 py-2 m-2
                       hover:bg-blue-500 text-white font-bold text-lg "
                     >
                       <FaLaptop size={30} />

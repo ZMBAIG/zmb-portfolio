@@ -9,8 +9,7 @@ const Navbar = () => {
 
   return (
     <div className="object-none object-left fixed flex flex-col w-22  h-full px-4 bg-[#3f4553] text-white border-r shadow-lg shadow-[#54749b] ">
-      {/* <div className="mt-10 py-6"> */}
-      <div class="px-4 py-8">
+      <div class="animate-bounce  px-4 py-8">
         <img src={Logo} alt="Logo" style={{ width: "60px" }} />
       </div>
 
