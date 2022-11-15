@@ -12,7 +12,7 @@ const Work = () => {
     >
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">
-          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] text-gray-300">
+          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] text-gray-300 p-2">
             PROJECTS
           </p>
           <p class="p-4">

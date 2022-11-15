@@ -8,34 +8,37 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="object-none object-left fixed flex flex-col w-22  h-full px-4 bg-[#3f4553] text-white border-r shadow-lg shadow-[#54749b] ">
-      <div class="animate-bounce  px-4 py-8">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#282c34] text-white shadow-lg shadow-[#54749b] p-4 top-0 left-0">
+      <div class="mt-4">
         <img src={Logo} alt="Logo" style={{ width: "60px" }} />
       </div>
+      {/* <p class="text-xs">
+        <i>“First, solve the problem. Then, write the code.” – John Johnson</i>{" "}
+      </p> */}
 
       {/* menu */}
-      <ul className="hidden sm:flex flex-col mt-20 justify-between items-center">
-        <li class="menu hover:shadow-lg shadow-[#54749b] py-2 px-4 w-24 ">
+      <ul className="hidden md:flex ">
+        <li class="menu text-[#61dafb] shadow-lg shadow-[#54749b]">
           <Link to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li class="menu hover:shadow-lg shadow-[#54749b] py-2  w-24">
+        <li class="menu hover:text-[#61dafb] ">
           <Link to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li class="menu hover:shadow-lg shadow-[#54749b] py-2 w-24">
+        <li class="menu hover:text-[#61dafb]">
           <Link to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li class="menu hover:shadow-lg shadow-[#54749b] py-2 w-22">
+        <li class="menu hover:text-[#61dafb] ">
           <Link to="work" smooth={true} duration={500}>
             Projects
           </Link>
         </li>
-        <li class="menu hover:shadow-lg shadow-[#54749b] py-2  w-22 ">
+        <li class="menu hover:text-[#61dafb]">
           <Link to="contact" smooth={true} duration={500}>
             Contact
           </Link>
@@ -55,30 +58,30 @@ const Navbar = () => {
             : "absolute top-0 left-0 w-full h-screen bg-[#282c34] flex flex-col justify-center items-center"
         }
       >
-        <li className="py-2 px-4 text-1xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300 w-24">
+        <li className="py-3 px-2 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
           <Link onClick={handleClick} to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li className="py-2 px-4 text-1xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300 w-24">
+        <li className="py-3 px-4 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
           {" "}
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li className="py-2 px-4 text-1xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300 w-24">
+        <li className="py-3 px-8 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
           {" "}
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li className="py-2 px-4 text-1xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300 w-24">
+        <li className="py-3 px-10 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
           {" "}
           <Link onClick={handleClick} to="work" smooth={true} duration={500}>
             Work
           </Link>
         </li>
-        <li className="py-2 px-4 text-1xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300 w-22">
+        <li className="py-3 px-9 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
           {" "}
           <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
             Contact

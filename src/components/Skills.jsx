@@ -20,7 +20,7 @@ const Skills = () => {
     >
       <div className="max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
         <div className="pb-8">
-          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b]">
+          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] p-2">
             SKILLS
           </p>
         </div>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zmb-portfolio/static/css/main.d9279e30.css",
-    "main.js": "/zmb-portfolio/static/js/main.aadb7abf.js",
+    "main.css": "/zmb-portfolio/static/css/main.95abb533.css",
+    "main.js": "/zmb-portfolio/static/js/main.dfabc59d.js",
     "static/media/cube-logo.png": "/zmb-portfolio/static/media/cube-logo.878f049afded91a8696f.png",
     "static/media/Superpy.jpg": "/zmb-portfolio/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
     "static/media/FilmSearch.jpg": "/zmb-portfolio/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
@@ -20,11 +20,11 @@
     "static/media/python.png": "/zmb-portfolio/static/media/python.532b43188ecbf86cdcbd.png",
     "static/media/javascript.png": "/zmb-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/zmb-portfolio/index.html",
-    "main.d9279e30.css.map": "/zmb-portfolio/static/css/main.d9279e30.css.map",
-    "main.aadb7abf.js.map": "/zmb-portfolio/static/js/main.aadb7abf.js.map"
+    "main.95abb533.css.map": "/zmb-portfolio/static/css/main.95abb533.css.map",
+    "main.dfabc59d.js.map": "/zmb-portfolio/static/js/main.dfabc59d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9279e30.css",
-    "static/js/main.aadb7abf.js"
+    "static/css/main.95abb533.css",
+    "static/js/main.dfabc59d.js"
   ]
 }
